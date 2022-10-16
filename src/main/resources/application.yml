@@ -1,6 +1,8 @@
 micronaut:
   application:
     name: imageCompressor
+  server:
+    port: 8081
 netty:
   default:
     allocator:

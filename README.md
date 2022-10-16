@@ -2,6 +2,10 @@
 
 Image compressor application built with [Micronaut](https://micronaut.io/).
 
+## Requirements
+- Micronaut 3.7.1
+- JDK 11
+
 ## Run application
 ```shell
 ./gradlew run

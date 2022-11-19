@@ -1,6 +1,6 @@
 # image-compressor
 
-Image compressor application built with [Micronaut](https://micronaut.io/).
+A simple image compression application built with [Micronaut](https://micronaut.io/).
 
 ## Requirements
 - Micronaut 3.7.1
